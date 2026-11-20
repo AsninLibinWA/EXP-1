@@ -48,7 +48,8 @@ a.   KVL:<img width="1920" height="1080" alt="Screenshot (10)" src="https://gith
  
 
 
-b.  KCL:<img width="1920" height="1080" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/a255be7f-d430-43f4-aec8-ce9234b12491" />
+b.  KCL:<img width="1920" height="1080" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/ae6b0f86-95f7-486b-bc87-2d893e3bae78" />
+
 
 
  
